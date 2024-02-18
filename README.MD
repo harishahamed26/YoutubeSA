@@ -1,0 +1,1 @@
+Scrapping the YouTube video Comments and Analysing the sentiments using the LLM sentimental models in HuggingFace Library by storing and manipulating using AWS DynamoDB
